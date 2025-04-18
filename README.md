@@ -48,6 +48,12 @@ The final product is a user-friendly **Streamlit dashboard** that allows interac
 
 ---
 
+## To run streamlit application
+use : 
+- db_config.py
+- sql_queries.py
+- stream_app.py
+
 
 
 
