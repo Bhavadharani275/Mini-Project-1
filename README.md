@@ -48,7 +48,6 @@ The final product is a user-friendly **Streamlit dashboard** that allows interac
 
 ---
 
-## 👨‍💻 Author
-Made by *[Bhavadharani]*
+
 
 
