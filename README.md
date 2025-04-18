@@ -56,6 +56,12 @@ The final product is a user-friendly **Streamlit dashboard** that allows interac
 
 ---
 
+## 📁 Data Files
+
+- CSV files used for testing and sample analysis are located in the `data` folder.
+
+---
+
 ## 🚀 How to Run
 1. Clone the repo
 2. Activate virtual environment
