@@ -61,6 +61,13 @@ The final product is a user-friendly **Streamlit dashboard** that allows interac
 - CSV files used for testing and sample analysis are located in the `data` folder.
 
 ---
+## 📁 Executed queries
+
+- `competition_data.ipynb` 
+- `complexes_data.ipynb`
+- `doubles_competitor_rankings_data.ipynb`
+  
+---
 
 ## 🚀 How to Run
 1. Clone the repo
