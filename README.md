@@ -47,7 +47,13 @@ The final product is a user-friendly **Streamlit dashboard** that allows interac
 - Expand to other sports using different endpoints of the API
 
 ---
-
+## 🚀 How to Run
+1. Clone the repo
+2. Activate virtual environment
+3. Install dependencies: `pip install -r requirements.txt`
+4. Run app: `streamlit run stream_app.py`
+   
+---
 ## To run streamlit application
 use : 
 - db_config.py
