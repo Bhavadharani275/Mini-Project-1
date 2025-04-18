@@ -47,6 +47,15 @@ The final product is a user-friendly **Streamlit dashboard** that allows interac
 - Expand to other sports using different endpoints of the API
 
 ---
+
+## 📂 Project Structure
+
+- `db_config.py` — Handles the database connection setup (MySQL).
+- `sql_queries.py` — Contains all reusable SQL queries.
+- `stream_app.py` — Streamlit application to visualize and analyze the data.
+
+---
+
 ## 🚀 How to Run
 1. Clone the repo
 2. Activate virtual environment
@@ -54,11 +63,7 @@ The final product is a user-friendly **Streamlit dashboard** that allows interac
 4. Run app: `streamlit run stream_app.py`
    
 ---
-## To run streamlit application
-use : 
-- db_config.py
-- sql_queries.py
-- stream_app.py
+
 
 
 
