@@ -61,11 +61,16 @@ The final product is a user-friendly **Streamlit dashboard** that allows interac
 - CSV files used for testing and sample analysis are located in the `data` folder.
 
 ---
-## 📁 Executed queries
+## 📁 Executed the given queries (Notebooks)
 
 - `competition_data.ipynb` 
 - `complexes_data.ipynb`
 - `doubles_competitor_rankings_data.ipynb`
+
+These notebooks are responsible for:
+- Pulling API data
+- Cleaning and flattening nested JSON
+- Inserting structured data into MySQL for visualization and analysis
   
 ---
 
